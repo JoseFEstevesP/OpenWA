@@ -78,3 +78,6 @@ docs/superpowers/
 CLAUDE.md
 _docs/
 .superpowers/
+
+# opencode project config
+opencode.json
